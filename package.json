@@ -4,7 +4,7 @@
   "description": "tinyurl.gaのNode.jsラッパー",
   "main": "index.js",
   "scripts": {
-    "test": "node -e console.log('付属のREADME.mdをご参照ください')"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
